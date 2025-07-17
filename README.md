@@ -1,4 +1,4 @@
-# 🧠💻 Computer Vision & Machine Learning Project: Meat Freshness Analysis
+# 🧠💻 Computer Vision & Machine Learning Project: Meat Freshness Classify
 
 ### 🎓 Автор: Арсений Хотеев | [НИУ ИТМО](https://itmo.ru) | [GitHub](https://github.com/arseniuszzz)
 
